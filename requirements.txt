@@ -1,0 +1,2 @@
+msc-pyparser>=1.2.1
+google-re2>=1.0
